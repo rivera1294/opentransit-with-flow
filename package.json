@@ -70,6 +70,7 @@
   ],
   "devDependencies": {
     "babel-plugin-relay": "^1.7.0",
+    "flow-bin": "^0.89.0",
     "relay-compiler": "^1.7.0"
   },
   "jest": {
@@ -116,7 +117,7 @@
   "babel": {
     "presets": [
       "react-app"
-    ], 
+    ],
     "plugins": [
       "relay"
     ]
